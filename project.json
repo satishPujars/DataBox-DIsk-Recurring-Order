@@ -1,0 +1,11 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "WindowsAzure.Storage": "7.0.0",
+        "Microsoft.Azure.Management.DataBox":"0.9.0-preview",
+        "Microsoft.Rest.ClientRuntime.Azure.Authentication":"2.3.3"
+      }
+    }
+   }
+}
