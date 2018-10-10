@@ -8,11 +8,11 @@ For a `TimerTrigger` to work, you provide a schedule in the form of a [cron expr
 
 # DataBox-DIsk-Recurring-Order
 
- I. Steps to create Function follow the below link
+ I. Steps to create azure function follow the below link
  
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function
 
-II. Download OrderData.json File and update fields then upload it in newly created Function root directory.
+II. Download OrderData.json File and update fields then upload it in newly created azure function root directory.
 
 How to get field values which is in OrderData.json from Azure Portal
 
@@ -41,8 +41,8 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-cre
 
 >  explanation is given to get other fields in Orderdata.json file itself.
 
-III.  Copy data from run.csx file and paste it in to script file which is in newly created funtion in portal.
+III.  Copy data from run.csx file and paste it in to script file which is in newly created azure function in portal.
 
-IV.   Download project.json File and upload it in newly created Function.
+IV.   Download project.json File and upload it in newly created azure function.
     
 
