@@ -34,5 +34,5 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-cre
 
 III.  Copy data from run.csx file and paste it in to script file which is in newly created funtion in portal.
 
-IV.   Download project.json File and upload it in newly created Function.
+IV.   Download project.json File and upload it in newly created Functions.
     
