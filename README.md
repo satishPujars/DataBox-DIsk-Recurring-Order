@@ -31,6 +31,7 @@ How to get field values which is in OrderData.json from Azure Portal
 
 https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal#create-an-azure-active-directory-application
 
+>  explanation is given for ohter fields in Orderdata.json file itself
 
 III.  Copy data from run.csx file and paste it in to script file which is in newly created funtion in portal.
 
