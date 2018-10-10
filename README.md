@@ -6,7 +6,7 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-schedule
 
 II. Download OrderData.json File and update fields then upload it in newly created Function.
 
-How to get field values which is in OrderData.jso from Azure Portal
+How to get field values which is in OrderData.json from Azure Portal
 
 > To find resourceGroupName in the Azure AD portal
 1.	Log in to Microsoft Azure as an administrator.
