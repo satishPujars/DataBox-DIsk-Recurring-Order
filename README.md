@@ -12,7 +12,7 @@ For a `TimerTrigger` to work, you provide a schedule in the form of a [cron expr
  
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function
 
-II. Download OrderData.json File and update fields then upload it in newly created Function.
+II. Download OrderData.json File and update fields then upload it in newly created Function root directory.
 
 How to get field values which is in OrderData.json from Azure Portal
 
