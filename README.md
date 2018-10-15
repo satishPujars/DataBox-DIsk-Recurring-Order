@@ -43,6 +43,8 @@ https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-cre
 
 III.  Copy data from run.csx file and paste it in to script file which is in newly created azure function in portal.
 
-IV.   Download project.json File and upload it in newly created azure function.
+IV.  In script change function-name text as Timer trigger function name which you created.
+
+V.   Download project.json File and upload it in newly created azure function.
     
 
