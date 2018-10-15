@@ -1,0 +1,26 @@
+{
+  "resourceGroupName": "",
+  "jobName": "",//Existing job name which you want to reorder
+  "expand": "details",//Don't change this
+  "tenantId": "",
+  "subscriptionId": "",
+  "aadApplicationKey": "",
+  "aadApplicationId": "",
+  "EmailList": "",//If emailid is multiple then seperate each with comma symbol(,).
+  "Phone": "",
+  "ContactName": "",
+  "diskSize": "",//Disk size in TB
+  "shippingAndDiskDetails": [
+ {
+        "StreetAddress1": "",
+        //optional
+        "StreetAddress2": "",
+        //optional
+        "StreetAddress3": "",       
+        "Country": "",
+        "PostalCode": "",
+        "City": "",
+        "StateOrProvince": "" 
+    }
+  ]
+}
