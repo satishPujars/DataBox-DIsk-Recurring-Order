@@ -3,6 +3,7 @@
     "net46":{
       "dependencies": {
         "WindowsAzure.Storage": "7.0.0",
+        "Microsoft.IdentityModel": "6.1.7600.16394",
         "Microsoft.Azure.Management.DataBox":"1.0.0",
         "Microsoft.Rest.ClientRuntime.Azure.Authentication":"2.3.3"
       }
