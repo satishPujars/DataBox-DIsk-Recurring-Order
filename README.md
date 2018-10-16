@@ -6,9 +6,9 @@ When the function is triggered first then it creates job order for DataBoxDisk.
 
 This function is used for Recurring order Purpose that is once you complete this uploading function in your portal and sets schedule for function. Then this function will runs on schedule.
 
-For Example: If your requirement is you need to order DataBoxDisk of 35TB every week on Monday and you need only for 5 schedule that is after 5 Monday's you don't want to order.
-		Ø First you need to specify in schedule option - click on created function select integrate option you will get  Schedule option on Refer this link specify expression (https://en.wikipedia.org/wiki/Cron#CRON_expression).
-		Ø Second thing is after fifth Monday you should stop this function so that new orders were not create-- To do this click on your function name on right side there is option stop click on that.
+<ul><b><u>For Example</u></b>: If your requirement is you need to order DataBoxDisk of 35TB every week on Monday and you need only for 5 schedule that is after 5 Monday's you don't want to order.
+		<li> First you need to specify in schedule option - click on created function select integrate option you will get  Schedule option on Refer this link specify expression (https://en.wikipedia.org/wiki/Cron#CRON_expression).</li>
+		<li> Second thing is after fifth Monday you should stop this function so that new orders were not create-- To do this click on your function name on right side there is option stop click on that.</li></ul>
 
 # what is TimerTrigger Function - C<span>#</span>
 
