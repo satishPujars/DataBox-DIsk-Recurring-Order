@@ -28,34 +28,34 @@ II. Download OrderData.json File and update fields then upload it in newly creat
 
 How to get field values which is in OrderData.json from Azure Portal
 
-	Ø To find resourceGroupName in the Azure AD portal
+    To find resourceGroupName in the Azure AD portal
 	1.	Log in to Microsoft Azure as an administrator.
 	2.	While you creating Timer Trigger Function in Resource group option which you mentioned  use that name.
 
-	Ø To find storageAccountName in the Azure AD portal
+    To find storageAccountName in the Azure AD portal
 	1.	Log in to Microsoft Azure as an administrator.
 	2.	While you creating Timer Trigger Function in Storage option which you mentioned use that name.
 	
-	Ø To find tenant ID in the Azure AD portal
+    To find tenant ID in the Azure AD portal
 
 	1.	Log in to Microsoft Azure as an administrator.
 	2.	In the Microsoft Azure portal, click Azure Active Directory.
 	3.	Under Manage, click Properties. The tenant ID is shown in the Directory ID box.
 
-	Ø  To find subscription ID in the Azure AD porta
+    To find subscription ID in the Azure AD porta
 	
 	1. 	Log in to Microsoft Azure as an administrator.
 	2.	In the Microsoft Azure portal, click storage account.
 	3.	Select any account, in overview tab you will get Subscription ID.
 
-	Ø To find aadApplication ID and AADApplication Key in the Azure AD portal refer below link 
+    To find aadApplication ID and AADApplication Key in the Azure AD portal refer below link 
 	Only create-an-azure-active-directory-application headed paragraph
 
 	https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal#create-an-azure-active-directory-application
 	
-	Ø Possible values for Country - US,NL,IE,AT,IT,BE,LV,BG,LT,HR,LU,CY,MT,CZ,DK,PL,EE,PT,FI,RO,FR,SK,DE,SI,GR,ES,HU,SE,GB
+    Possible values for Country - US,NL,IE,AT,IT,BE,LV,BG,LT,HR,LU,CY,MT,CZ,DK,PL,EE,PT,FI,RO,FR,SK,DE,SI,GR,ES,HU,SE,GB
 
-	Ø For other fields explanation is given in Orderdata.json file itself.
+    For other fields explanation is given in Orderdata.json file itself.
 
 III.  Copy data from run.csx file and paste it in to script file which is in newly created azure function in Microsoft Azure Portal.
 
