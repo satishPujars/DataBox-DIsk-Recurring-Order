@@ -11,7 +11,7 @@ This function is used for Recurring order Purpose that is once you complete this
 		<li> Second thing is after fifth Monday you should stop this function so that new orders were not create-- To do this click on your function name on right side there is option stop click on that.</li></ul>
 
 The very First order is created with name which you mentioned or specified in OrderData.json 
-file(Field name ==> "jobName": "").
+file (Field name ==> "jobName": "").
 Then from second order the order name is created with name you mentioned or specified in OrderData.json file and followed by "_"(underscore) and 6 digits(These digits are created randomly for every schedule because the order name must be unique) 
 
 
