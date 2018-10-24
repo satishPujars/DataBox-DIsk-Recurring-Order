@@ -63,6 +63,8 @@ How to get field values which is in OrderData.json from Azure Portal
 
 III.  Copy data from run.csx file and paste it in to script file which is in newly created azure function in Microsoft Azure Portal.
 
-IV.  In script change function-name text as Timer trigger function name which you created in Microsoft Azure Portal.
+IV.  In script change "function-name" text as Timer trigger function name which you created in Microsoft Azure Portal.
+       
+       string MyFilePath=@"D:\home\site\wwwroot\function-name\OrderData.json";
 
 V.   Download project.json File and upload it in newly created azure function in Microsoft Azure Portal.
