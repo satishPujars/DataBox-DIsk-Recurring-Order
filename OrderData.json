@@ -1,6 +1,6 @@
 {
   "resourceGroupName": "",
-  "jobName": "",//Existing job name which you want to reorder
+  "jobName": "Enter your order/job name",
   "storageAccountName": "",
   "location": "",
   "jobName": "",
