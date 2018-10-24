@@ -12,14 +12,12 @@
   "EmailList": "",//If emailid is multiple then seperate each with comma symbol(,).
   "Phone": "",
   "ContactName": "",
-  "diskSize": "",//Disk size in TB
+  "diskSize": "",//Disk size in TB Example:35
   "shippingAndDiskDetails": [
  {
         "StreetAddress1": "",
-        //optional
-        "StreetAddress2": "",
-        //optional
-        "StreetAddress3": "",       
+        "StreetAddress2": "",//optional
+        "StreetAddress3": "", //optional     
         "Country": "",        //Possible values are - US,NL,IE,AT,IT,BE,LV,BG,LT,HR,LU,CY,MT,CZ,DK,PL,EE,PT,FI,RO,FR,SK,DE,SI,GR,ES,HU,SE,GB
         "PostalCode": "",
         "City": "",
