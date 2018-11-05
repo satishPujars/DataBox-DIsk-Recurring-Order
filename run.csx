@@ -168,7 +168,7 @@ try{
             List<DestinationAccountDetails> destinationAccountDetails = new List<DestinationAccountDetails>();
             destinationAccountDetails.Add(d);
 
-            DataBoxDiskJobDetails jobDetails = new DataBoxDiskJobDetails(contactDetails, shippingAddress, destinationAccountDetails,35);
+            DataBoxDiskJobDetails jobDetails = new DataBoxDiskJobDetails(contactDetails, shippingAddress, destinationAccountDetails,diskSize);
             
             Sku sku = new Sku();
             sku.Name = SkuName.DataBoxDisk;
