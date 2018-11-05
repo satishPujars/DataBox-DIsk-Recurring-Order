@@ -1,4 +1,4 @@
-# DataBox-DIsk-Recurring-Order
+# DataBox-Disk-Recurring-Order
 
 This project will contain Timer Trigger Function which include C# script, json files(Configuration files). This function will execute automatically depending on schedule time mentioned.
 
